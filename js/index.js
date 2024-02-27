@@ -9,5 +9,5 @@ function mostrarNombre() {
     }
     else
     mostrar.innerHTML = `
-<p style="color:red">${nombre.value}</p>`;
+<p style="color:red">Hola, ${nombre.value}</p>`;
 }
